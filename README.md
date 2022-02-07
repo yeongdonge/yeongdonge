@@ -1,6 +1,6 @@
-MySQL MariaDB
-Linux
-JAVA Spinrg JPA
+MySQL MariaDB<br>
+Linux<br>
+JAVA Spinrg JPA<br>
 Python NLP
 
 
