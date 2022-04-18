@@ -9,8 +9,13 @@ Python NLP
 
 ![yeongdonge's github stats](https://github-readme-stats.vercel.app/api?username=yeongdonge&theme=dark&show_icons=true)
 
-
+---
 <a target="_blank" href="https://velog.io/@parrineau" ><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+
+## _Main Topics_
+### <a href="https://velog.io/@parrineau/MHA4MySQL-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C" target="_blank">MHA4MySQL 가이드</a>
+### <a href="https://velog.io/@parrineau/MariaDB-Binary-Install-for-Linux" target="_blank">MariaDB Binary Install for Linux</a>
+
 ---
 ## _Toy Project_
 
