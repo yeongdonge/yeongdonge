@@ -20,6 +20,7 @@ Python NLP
 ---
 ## _Toy Project_
 
+### <a href="https://github.com/WeatherIsClear/FallInLoveWithAssets" target="_blank">자산 관리의 혁신, "자산에 반하다"(Integreted Toy Project)</a>
 ### <a href="https://github.com/yeongdonge/exchange-rate" target="_blank">실시간 환율 계산(Spring MVC)</a>
 ### <a href="https://github.com/Team-Rev" target="_blank">문제 유형 찾기(Python NLP)</a>
 
