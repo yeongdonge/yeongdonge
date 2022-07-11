@@ -18,6 +18,7 @@ Python NLP
 ### <a href="https://velog.io/@parrineau/MHA4MySQL-%EC%84%A4%EC%B9%98-%EA%B0%80%EC%9D%B4%EB%93%9C" target="_blank">MHA4MySQL 가이드</a>
 ### <a href="https://velog.io/@parrineau/MariaDB-Binary-Install-for-Linux" target="_blank">MariaDB Binary Install for Linux</a>
 ### <a href="https://velog.io/@parrineau/Data-Crawling-Selenium-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%A5%BC-%EC%9A%95%ED%95%98%EC%A7%80-%EB%A7%90%EC%9E%90-TIP" target="_blank">Python Selenium Data Crawling</a>
+### <a href="https://velog.io/@parrineau/pidstat%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BF%BC%EB%A6%AC-CPU-%EC%A0%90%EC%9C%A0%EC%9C%A8-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81" target="_blank">MySQL Query CPU 점유율 모니터링</a>
 ---
 ## _Toy Project_
 
