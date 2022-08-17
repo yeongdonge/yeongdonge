@@ -14,7 +14,7 @@ Python NLP
 ---
 ## _Toy Project_
 
-### <a href="https://github.com/yeongdonge/rineaubie" target="_blank">Rineaubie"(Spring MVC, JPA, Vue.js 3)</a>
+### <a href="https://github.com/yeongdonge/rineaubie" target="_blank">Rineaubie(Spring MVC, JPA, Vue.js 3)</a>
 ### <a href="https://github.com/yeongdonge/exchange-rate" target="_blank">실시간 환율 계산(Spring MVC)</a>
 ### <a href="https://github.com/yeongdonge/TODO-IT" target="_blank">TODO it!(Vue.js 2, Vuex)</a>
 
