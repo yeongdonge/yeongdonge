@@ -32,7 +32,7 @@ Python NLP
 
 ---
 ## _Study_
-### _저작권으로 인한 Private Repository_
+### _Private Repository_
 ---
 - Spring
 - Spring MVC
