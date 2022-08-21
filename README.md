@@ -37,5 +37,7 @@ Python NLP
 - Spring
 - Spring MVC
 - Spring Data JPA
+- Spring Database Connetion tec
 - QueryDSL
 - HTTP
+- Vue.js
