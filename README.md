@@ -11,6 +11,7 @@ Python NLP
 
 <!-- ![yeongdonge's github stats](https://github-readme-stats.vercel.app/api?username=yeongdonge&theme=dark&show_icons=true) -->
 
+<!--
 ---
 ## _Toy Project_
 
@@ -20,6 +21,7 @@ Python NLP
 
 ---
 <a target="_blank" href="https://velog.io/@parrineau" ><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+-->
 
 ## _Main Topics_
 ### <a href="https://velog.io/@parrineau/MySQL-HAproxy-MHA" target="_blank">HAProxy, MHA (MySQL)</a>
